@@ -19,3 +19,7 @@ button {
 button:hover {
     background-color: #ccc;
 }
+
+#contador {
+    background-color: red;
+}
